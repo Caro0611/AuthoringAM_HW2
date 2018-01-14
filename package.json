@@ -1,0 +1,33 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "this is homework 2 for authoring class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caro0611/AuthoringAM_HW2.git"
+  },
+  "keywords": [
+    "grunt",
+    "homework2"
+  ],
+  "author": "alba mendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Caro0611/AuthoringAM_HW2/issues"
+  },
+  "homepage": "https://github.com/Caro0611/AuthoringAM_HW2#readme",
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify-es": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^3.3.0"
+  }
+}
